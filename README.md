@@ -30,4 +30,4 @@ and the program will be running in your terminal!
 
 ## Author
 	
-	- **Alan Yoshio Tara** - *Provided the full integral code*
+- **Alan Yoshio Tara** - *Provided the full integral code*
